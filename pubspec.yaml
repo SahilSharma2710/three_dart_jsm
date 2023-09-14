@@ -14,7 +14,11 @@ dependencies:
   three_dart:
     git:
       url: https://github.com/Knightro63/three_dart.git
-  flutter_gl: ^0.0.21
+  flutter_gl:
+    git:
+      url: 'https://github.com/SahilSharma2710/flutter_gl.git'
+      ref: main
+      path: flutter_gl
   typr_dart: ^0.0.2
   opentype_dart: ^0.0.1
   universal_html: ^2.0.8
