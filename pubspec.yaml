@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
   three_dart:
     git:
-      url: https://github.com/Knightro63/three_dart.git
+      url: https://github.com/SahilSharma2710/three_dart.git
   flutter_gl:
     git:
       url: 'https://github.com/SahilSharma2710/flutter_gl.git'
